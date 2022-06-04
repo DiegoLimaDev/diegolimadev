@@ -1,2 +1,5 @@
-
-  ![hey_there](https://user-images.githubusercontent.com/72505996/166478323-a80f4c66-c0c3-4e46-97d2-86fbe9e16dc0.gif)
+# <p align="center">Hey, there!</p>
+#### <p align="center">Welcome to my profile and feel free to contact me if u have any questions</p>
+<p align="center">
+<Img src="https://user-images.githubusercontent.com/72505996/172026187-24b5840d-d186-4045-89d4-56fcbba5cecb.png" />
+</p>
